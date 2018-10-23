@@ -4,4 +4,3 @@
 
 layout: home
 ---
-<h1>Coursera</h1>
